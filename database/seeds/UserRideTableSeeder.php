@@ -40,10 +40,7 @@ class UserRideTableSeeder extends Seeder
             'email' => 'user@example.com',
         ]);
 
-        // factory(User::class, 'driver')->create([
-        //     'name' => 'Lucas Figueiredo',
-        //     'email' => 'lukas.liberato14@gmail.com',
-        // ]);
+       
     }
 
     protected function createDrivers()
